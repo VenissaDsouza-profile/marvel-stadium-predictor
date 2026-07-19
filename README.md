@@ -12,7 +12,7 @@
 
 A machine learning project that predicts high-traffic days at Marvel Stadium 
 
-using real event data, weather conditions, and AFL match records.
+using real event data, weather conditions and AFL match records.
 
 
 
@@ -160,5 +160,5 @@ Background in AI \& Machine Learning (BE) | Python · R · Power BI · Tableau
 
 
 
-\[!\[LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://linkedin.com/in/yourprofile)
+\[!\[LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/venissa-dsouza-829552217)
 
