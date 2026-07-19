@@ -160,4 +160,4 @@ Background in AI \& Machine Learning (BE) | Python · R · Power BI · Tableau
 
 
 
-\[LinkedIn](https://www.linkedin.com/in/www.linkedin.com/in/venissa-dsouza-829552217)
+\[LinkedIn](https://www.linkedin.com/in/venissa-dsouza-829552217)
